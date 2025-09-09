@@ -109,4 +109,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## ⚡  Completion of Assignment
 
-Completed the assignment by following the directions. I created a new file following the directions of the optional section.
+Completed the assignment by following the directions.
